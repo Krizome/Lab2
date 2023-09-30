@@ -2,7 +2,7 @@
 
 namespace App\Controllers;
 
-use CodeIgniter\Controller;
+use CodeIgniter\Controllers;
 use CodeIgniter\HTTP\CLIRequest;
 use CodeIgniter\HTTP\IncomingRequest;
 use CodeIgniter\HTTP\RequestInterface;
